@@ -28,7 +28,7 @@
 
 ## 📫 Contact Me
 - ✉️ **Email:** khosa9720@gmail.com
-- 💼 **LinkedIn:** [Add your LinkedIn link here]
+-
 
 ## ⚡ Fun Facts
 - 🎨 I love combining creativity with technology!
