@@ -54,17 +54,16 @@
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 </p>
 
-<!-- GitHub Stats Section -->
-<br>
+<br><br>
 
-## 📊 GitHub Stats
+## 📊 **GitHub Statistics**
 
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ridamaryam804&show_icons=true&theme=dark&hide_border=true" alt="ridamaryam804" />
-  &nbsp;&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ridamaryam804&layout=compact&theme=dark&hide_border=true" alt="ridamaryam804" />
-</p>
+<div align="center">
+  
+![Rida's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ridamaryam804&show_icons=true&theme=radical&hide_border=true)
+  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ridamaryam804&layout=compact&theme=radical&hide_border=true)
 
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ridamaryam804&theme=dark&hide_border=true" alt="ridamaryam804" />
-</p>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ridamaryam804&theme=radical&hide_border=true)
+
+</div>
