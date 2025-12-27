@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.pinimg.com/originals/6f/38/50/6f385045713a7c54a9b9ee7b05842bb2.gif" alt="MasterHead" width="100%" style="border-radius: 10px;">
+  <img src="https://i.pinimg.com/originals/86/b4/0f/86b40f6ade107d2f0b05ef15aec03aaf.gif" alt="MasterHead" width="100%" style="border-radius: 10px;">
 </p>
 
 <h1 align="center">Hi 👋, I'm Rida Maryam</h1>
@@ -28,7 +28,7 @@
 
 ## 📫 Contact Me
 - ✉️ **Email:** khosa9720@gmail.com
-- 💼 **LinkedIn:** [Your LinkedIn Profile]
+- 💼 **LinkedIn:** [Add your LinkedIn link here]
 
 ## ⚡ Fun Facts
 - 🎨 I love combining creativity with technology!
