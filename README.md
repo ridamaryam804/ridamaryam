@@ -28,7 +28,7 @@
 
 ## 📫 Contact Me
 - ✉️ **Email:** khosa9720@gmail.com
--
+- 💼 **LinkedIn:** https://www.linkedin.com/in/maryam-khan-371314365/
 
 ## ⚡ Fun Facts
 - 🎨 I love combining creativity with technology!
@@ -54,16 +54,31 @@
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 </p>
 
-<br><br>
+---
 
-## 📊 **GitHub Statistics**
+## 🏆 **My GitHub Activity**
 
 <div align="center">
   
-![Rida's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ridamaryam804&show_icons=true&theme=radical&hide_border=true)
-  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ridamaryam804&layout=compact&theme=radical&hide_border=true)
+### 🎯 **Recent Activity**
+- 📚 **Learning:** Flutter & Firebase
+- 💻 **Building:** Farmer Advisory App
+- 🌱 **Growing:** As a developer daily
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ridamaryam804&theme=radical&hide_border=true)
+### 📈 **Progress**
+- ✅ **Flutter Mastery:** In Progress
+- ✅ **Firebase Integration:** Learning
+- ✅ **Web Development:** Building Skills
+
+### 🚀 **Next Goals**
+1. Complete Farmer Advisory App
+2. Contribute to Open Source
+3. Learn React Native
 
 </div>
+
+<br>
+
+<p align="center">
+  <i>🚀 Building amazing things, one commit at a time!</i>
+</p>
