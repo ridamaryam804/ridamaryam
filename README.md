@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.pinimg.com/736x/56/40/a6/5640a62660fa5f5896d909adc0540233.jpg" alt="MasterHead" width="100%" style="border-radius: 10px;">
+  <img src="https://i.pinimg.com/originals/6f/38/50/6f385045713a7c54a9b9ee7b05842bb2.gif" alt="MasterHead" width="100%" style="border-radius: 10px;">
 </p>
 
 <h1 align="center">Hi 👋, I'm Rida Maryam</h1>
