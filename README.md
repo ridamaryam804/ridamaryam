@@ -3,25 +3,36 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Hi%20%F0%9F%91%8B%2C%20I'm%20Rida%20Maryam-%23ff69b4?style=for-the-badge&logo=github&logoColor=white" alt="Hi I'm Rida Maryam"/>
+  <span style="color: #87CEEB; font-size: 1.5em; font-weight: bold; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
+    Hi 👋, I'm Rida Maryam
+  </span>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Aspiring%20Web%20%26%20App%20Developer-learning%20and%20building%20real%20projects-00aced?style=flat-square" alt="Aspiring Web & App Developer"/>
+  <span style="color: #87CEEB; font-size: 1.3em; font-weight: bold; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
+    Aspiring Web & App Developer<br>
+    <span style="font-size: 0.9em; color: #7ec8e3;">learning and building real projects</span>
+  </span>
 </p>
 
 <img align="right" alt="Coding" width="500" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=ridamaryam804&label=Profile%20views&color=0e75b6&style=flat" alt="ridamaryam804" />
+<p align="left" style="color: #87CEEB; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
+  Profile views: <span style="font-weight: bold; font-size: 1.1em;">44</span>
 </p>
 
-<!-- Colored section badges (these are images so color is preserved) -->
-<p align="left">
-  <img src="https://img.shields.io/badge/📍%20Currently%20Working%20On-Farmer%20Advisory%20App-1abc9c?style=for-the-badge" alt="Currently Working On"/>
-  <img src="https://img.shields.io/badge/🚀%20Learning%20Journey-Advanced%20Flutter%2C%20Firebase-ff7f50?style=for-the-badge" alt="Learning Journey"/>
-  <img src="https://img.shields.io/badge/🤝%20Collaboration-Open%20to%20Contributions-6f42c1?style=for-the-badge" alt="Collaboration"/>
-</p>
+<!-- Sky Blue Text Sections - Left Aligned -->
+<div align="left" style="color: #87CEEB; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; margin: 20px 0;">
+  <div style="font-size: 1.4em; font-weight: bold; margin-bottom: 15px; color: #87CEEB; padding: 8px; border-left: 4px solid #7ec8e3;">
+    📍 Currently Working On
+  </div>
+  <div style="font-size: 1.4em; font-weight: bold; margin-bottom: 15px; color: #87CEEB; padding: 8px; border-left: 4px solid #7ec8e3;">
+    🚀 Learning Journey  
+  </div>
+  <div style="font-size: 1.4em; font-weight: bold; color: #87CEEB; padding: 8px; border-left: 4px solid #7ec8e3;">
+    🤝 Collaboration
+  </div>
+</div>
 
 ## 📍 Currently Working On
 - 🔭 **Farmer advisory App** — Flutter-based mobile app that helps farmers with advisory, tips, and local resources.
